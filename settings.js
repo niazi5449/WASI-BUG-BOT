@@ -3,8 +3,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923128976890"
-global.ownername = "Niaz Hussain "
+global.ownernomer = "923707068889"
+global.ownername = "Ali Khan "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
@@ -15,11 +15,11 @@ global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Niazi'
+global.author = 'Boobi'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "WASI TECH"
+global.wm = "Mehboob"
 
 //theme link
 global.link = 'https://whatsapp.com'
